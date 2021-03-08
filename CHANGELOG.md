@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.20.3](https://www.github.com/GoogleCloudPlatform/cloudsql-proxy/compare/v1.20.2...v1.20.3) (2021-03-08)
+
+
+### Bug Fixes
+
+* prevent refreshCfg from scheduling multiple refreshes ([#666](https://www.github.com/GoogleCloudPlatform/cloudsql-proxy/issues/666)) ([52db349](https://www.github.com/GoogleCloudPlatform/cloudsql-proxy/commit/52db3492ac78a9a68218c2a12840c4016b1d0b99))
+
 ### [1.20.2](https://www.github.com/GoogleCloudPlatform/cloudsql-proxy/compare/v1.20.1...v1.20.2) (2021-03-05)
 
 
